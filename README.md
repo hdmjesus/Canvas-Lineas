@@ -1,4 +1,4 @@
-#Drawing-on-Canvas
+Drawing-on-Canvas
 This project corresponds to my beginnings in programming, in which I make some drawings on canvas with the help of javascript
 
 # Dibujando-en-Canvas
