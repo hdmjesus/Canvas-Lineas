@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dibujando en CANVAS</title>
+    <style media="screen">
+        #dibujo
+        {
+            border: 2px solid black;
+        }
+        #lineasinput
+        {
+            display: block;
+            margin-bottom: 20px;
+        }
+
+        #botonsito
+        {
+            display: block;
+            margin-bottom: 20px;
+            margin-top: 20px;
+            padding: 10px;
+            width: 100px;
+            font-family: fantasy;
+        }
+
+        #bcolor
+        {
+        margin-bottom:10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dibujito</h1>
+
+    <p>¿Cuantas lineas quieres?</p>
+    <input type="text"  id="texto_lineas"name="Numero de lineas" value="" placeholder="N° Lineas">
+    <!-- El atributo placeholder indica un mensaje en la caja de texto -->
+    <input type="button" name="" value="Enviar" id="botonsito">
+    <input type="color"= id= "bcolor"><br>
+<canvas id="dibujo" width="300" height="300"></canvas>
+
+<script src="ciclowhileyfor.js"></script>
+</body>
+</html>
