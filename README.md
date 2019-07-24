@@ -6,4 +6,4 @@ Entre las habilidades que obtube con este modulo fue aprender a  obtener element
 This project corresponds to my beginnings in programming, in which some drawings are made on canvas with the help of javascript.
 Among the skills you obtained with this module was to learn how to get html elements to javascript, perform functions and shoot with a listener of events like addEventListene.
 
-Copyright ,Jesus Hernandez :Hdmjesus
+Jesus Hernandez :Hdmjesus
