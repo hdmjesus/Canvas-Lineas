@@ -1,5 +1,5 @@
 
-# Dibujando-en-Canvas | Drawing-on-Canvas
+# Lineas-en-Canvas | Lines-on-Canvas
 Este proyecto corresponde a mis inicios en la programacion ,en el cual realizo unos dibujos en canvas con la ayuda de javascript.
 Entre las habilidades que obtube con este modulo fue aprender a  obtener elementos de html a javascript ,realizar funciones y disparar fuciones con un escuchado de eventos como addEventListener.
 
